@@ -1,5 +1,8 @@
 Smart Home Project
-live demo http://afzan.free.nf/
+live demo http://afzan.free.nf/ 
+SSID : iphone
+Password : 123iphone
+
 
 
 
@@ -19,7 +22,15 @@ live demo http://afzan.free.nf/
                                                                                                     
 
 
+-----------------------------------------------------------------------------------TUGAS UAS----------------------------------------------------------------------------------------------
 
+1. ADE PUTRA  2104056
+2. ALFIN FAUZAN 2104042
+3. DONI SAPUTRA 2104050
+4. DEVIANA 
+4.JERI SETIAWAN 2104053
+5.MUKLAS ARDIANSYAH 2104070
+6. SUKRON PUJIANTO 2104071
 
  Apa itu Smart Home RFID Lockdoor
 
@@ -55,6 +66,8 @@ Apa saja alat yang di butuhkan?
 - Kabel micro USB
 - Kabel konektor (jumper cable)
 - Acrylic
+
+
 
 
 
